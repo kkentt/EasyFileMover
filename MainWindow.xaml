@@ -54,7 +54,7 @@
         <TextBox x:Name="txt_destination" HorizontalAlignment="Left" Height="40" Margin="140,188,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="200" Grid.Column="4" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
         <Button Name="btn_to" Content="To" HorizontalAlignment="Left" Margin="7.8,196,0,0" VerticalAlignment="Top" Width="99" Height="27" RenderTransformOrigin="0.487,-4.346" Grid.Column="7" Click="Btn_to_Click" Grid.RowSpan="2"/>
         <Label Content="Developed by Khant" HorizontalAlignment="Left" Margin="166,382,0,0" VerticalAlignment="Top" Width="125" Grid.Column="7" Grid.RowSpan="2"/>
-        <Label Content="Move files from one folder to another with extension( moving all .jpg from Download to Picture instead of manually selecting and cut the photos)." HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="782" Grid.ColumnSpan="8" Height="27" Grid.RowSpan="2"/>
+        <Label Content="Move files from one folder to another by selecting extensions(Eg.Move  .jpg and .png from Download to Picture folder)." HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="782" Grid.ColumnSpan="8" Height="27" Grid.RowSpan="2"/>
         <Button x:Name="btn_move_files" Content="MOVE
 " Grid.Column="4" HorizontalAlignment="Left" Margin="308,348,0,0" VerticalAlignment="Top" Width="79" Height="27" Click="Btn_move_files_Click" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
 
