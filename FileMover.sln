@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMover", "FileMover.csproj", "{50192D11-9194-4C28-8CD4-E92BCEC4F25A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Easy File Mover", "..\Easy File Mover\Easy File Mover.vdproj", "{2B2AD7FE-6E59-4680-A87A-29960D5D0DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50192D11-9194-4C28-8CD4-E92BCEC4F25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50192D11-9194-4C28-8CD4-E92BCEC4F25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50192D11-9194-4C28-8CD4-E92BCEC4F25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50192D11-9194-4C28-8CD4-E92BCEC4F25A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2AD7FE-6E59-4680-A87A-29960D5D0DE4}.Debug|Any CPU.ActiveCfg = Debug
+		{2B2AD7FE-6E59-4680-A87A-29960D5D0DE4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA699055-D601-4037-AEB2-54D07FB56166}
+	EndGlobalSection
+EndGlobal
