@@ -1,9 +1,9 @@
 # Easy File Mover
 
- ![User Manual 1](https://github.com/kenkhant/EasyFileMover/tree/master/UserManual/efm1.png)
+ [[https://github.com/kenkhant/EasyFileMover/tree/master/UserManual/efm1.png]]
  
  Click "From" button.
- ![User Manual 2](https://github.com/kenkhant/EasyFileMover/tree/master/UserManual/efm2.png)
+ ![User Manual 2](../UserManual/efm2.png)
 
  Select extensions from "From" folder
  ![User Manual 3](https://github.com/kenkhant/EasyFileMover/tree/master/UserManual/efm3.png)
