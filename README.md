@@ -1,5 +1,7 @@
 # Easy File Mover
 
+[Download installable file here.](https://github.com/kkentt/EasyFileMover/blob/master/Installer/EasyFileMover.msi)
+
 # This page appear after opening the app.
  
  ![User Manual 1](/UserManual/efm1.png)
